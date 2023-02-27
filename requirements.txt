@@ -1,0 +1,9 @@
+jupyter
+datetime
+numpy
+pandas
+tqdm
+torch
+torchvision
+tensorboard
+matplotlib
