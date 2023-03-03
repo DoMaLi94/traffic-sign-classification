@@ -2,6 +2,7 @@ jupyter
 datetime
 numpy
 pandas
+sklearn
 tqdm
 torch
 torchvision
