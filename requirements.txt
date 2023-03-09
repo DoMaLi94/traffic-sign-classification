@@ -2,7 +2,7 @@ jupyter
 datetime
 numpy
 pandas
-sklearn
+scikit-learn
 tqdm
 torch
 torchvision
